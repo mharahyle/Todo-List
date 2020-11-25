@@ -12,7 +12,8 @@ if(isset($_POST['numbers'])){
 
 ?>
 <?php 
-$servername= 'xdbs5.dailyrazor.com:3306';
+$servername= 'xdbs5.dailyrazor.com:3306
+';
 $username='todolist';
 $password = 'Tyf9$8n8';
 $errors ="";
